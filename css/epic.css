@@ -1,0 +1,16 @@
+h1{
+  color: purple;
+  font-family: monospace;
+  text-align: center;
+}
+ul{
+  list-style: none;
+  color: green;
+  line-height: 100px;
+}
+li {
+  display: inline;
+}
+body{
+  background-color: gold;
+}
